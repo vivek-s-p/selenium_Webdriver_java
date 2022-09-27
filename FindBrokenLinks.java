@@ -40,7 +40,7 @@ public class FindBrokenLinks {
 
 				allurls.add(getUrl);
 				//System.out.println(getUrl);
-				//performLinkCheck(getUrl);
+				performLinkCheck(getUrl);
 
 			}
 		}
